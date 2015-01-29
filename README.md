@@ -1,6 +1,6 @@
-# Boot2Docker
+# boot2docker
 
-Personal project used to install Boot2Docker on a Windows machine using
+Personal project used to install boot2docker on a Windows machine using
 Chocolatey
 
 A Powershell set up script is included in the setup folder that will install
